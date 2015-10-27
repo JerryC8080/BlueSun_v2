@@ -1,0 +1,10 @@
+# Site settings
+title: BlueSun
+email: huangjerryc@gmail.com
+description: > # there no description yet
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://huang-jerryc.com" # the base hostname & protocol for your site
+github_username:  JerryC8080
+
+# Build settings
+#markdown: kramdown
